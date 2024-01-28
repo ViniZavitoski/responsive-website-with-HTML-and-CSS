@@ -30,7 +30,7 @@ header{
     float: left;
     width: 150px;
     height: 60px;
-    background-image: url(images/img1.png);
+    background-image: url('images/img1.png');
     background-size: 100% auto;
     background-repeat: no-repeat;
     background-position: center;
@@ -41,7 +41,7 @@ header{
     float: right;
     width: 160px;
     height: 60px;
-    background-image: url(images/img2.png);
+    background-image: url('images/img2.png');
     background-size: 100% auto;
     background-repeat: no-repeat;
     background-position: center;
@@ -135,7 +135,7 @@ section.call{
     width: 64px;
     height: 64px;
     background-size: 100% 100%;
-    background-image: url(../projeto/Projeto_02/imagens/arrow.png);
+    background-image: url('images/arrow.png');
 }
 
 section.call div.container{
