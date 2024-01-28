@@ -30,7 +30,7 @@ header{
     float: left;
     width: 150px;
     height: 60px;
-    background-image: url(img1.png);
+    background-image: url(images/img1.png);
     background-size: 100% auto;
     background-repeat: no-repeat;
     background-position: center;
@@ -41,7 +41,7 @@ header{
     float: right;
     width: 160px;
     height: 60px;
-    background-image: url(img2.png);
+    background-image: url(images/img2.png);
     background-size: 100% auto;
     background-repeat: no-repeat;
     background-position: center;
@@ -57,7 +57,7 @@ section.cover-form{
     height: 560px;
     background-position: center;
     background-size: cover;
-    background-image: url('imagens/2020_OUT_IBEC_blog_04-820x547.png');
+    background-image: url('images/2020_OUT_IBEC_blog_04-820x547.png');
 }
 
 .form-container{
